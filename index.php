@@ -28,6 +28,7 @@
             <td class="left"><?=$row['Nama']?></td>
             <td class="left"><?=$row['Alamat']?></td>
             <td class="right"><?=$row['Jabatan']?></td>
+		<td> test </td>
             
         </tr>
         <?php
